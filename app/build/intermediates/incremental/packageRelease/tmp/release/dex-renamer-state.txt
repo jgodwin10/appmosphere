@@ -1,7 +1,7 @@
-#Fri Apr 18 13:41:00 UTC 2025
-base.1=/home/user/AndroidStudioProjects/Appmosphere2/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+#Fri Apr 18 16:10:14 WAT 2025
+base.1=/home/unrighteous/Desktop/appmosphere/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
 path.1=classes2.dex
-base.0=/home/user/AndroidStudioProjects/Appmosphere2/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+base.0=/home/unrighteous/Desktop/appmosphere/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
 path.0=classes.dex

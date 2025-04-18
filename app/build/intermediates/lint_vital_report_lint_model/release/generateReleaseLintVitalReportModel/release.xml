@@ -26,6 +26,6 @@
       applicationId="com.appmosphere.chat"
       generatedSourceFolders="build/generated/ap_generated_sources/release/out"
       generatedResourceFolders="build/generated/res/resValues/release"
-      desugaredMethodsFiles="/home/user/.gradle/caches/8.11.1/transforms/fb0f0b2c79f76c0dab26fd833fdcf812/transformed/D8BackportedDesugaredMethods.txt">
+      desugaredMethodsFiles="/home/unrighteous/.gradle/caches/8.11.1/transforms/fb0f0b2c79f76c0dab26fd833fdcf812/transformed/D8BackportedDesugaredMethods.txt">
   </artifact>
 </variant>
